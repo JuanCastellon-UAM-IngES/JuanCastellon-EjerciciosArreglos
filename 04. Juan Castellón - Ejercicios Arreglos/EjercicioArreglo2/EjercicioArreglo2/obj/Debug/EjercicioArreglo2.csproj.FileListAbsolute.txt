@@ -1,0 +1,7 @@
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\04. Juan Castellón - Ejercicios Arreglos\EjercicioArreglo2\EjercicioArreglo2\bin\Debug\EjercicioArreglo2.exe.config
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\04. Juan Castellón - Ejercicios Arreglos\EjercicioArreglo2\EjercicioArreglo2\bin\Debug\EjercicioArreglo2.exe
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\04. Juan Castellón - Ejercicios Arreglos\EjercicioArreglo2\EjercicioArreglo2\bin\Debug\EjercicioArreglo2.pdb
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\04. Juan Castellón - Ejercicios Arreglos\EjercicioArreglo2\EjercicioArreglo2\obj\Debug\EjercicioArreglo2.csproj.AssemblyReference.cache
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\04. Juan Castellón - Ejercicios Arreglos\EjercicioArreglo2\EjercicioArreglo2\obj\Debug\EjercicioArreglo2.csproj.CoreCompileInputs.cache
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\04. Juan Castellón - Ejercicios Arreglos\EjercicioArreglo2\EjercicioArreglo2\obj\Debug\EjercicioArreglo2.exe
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\04. Juan Castellón - Ejercicios Arreglos\EjercicioArreglo2\EjercicioArreglo2\obj\Debug\EjercicioArreglo2.pdb
